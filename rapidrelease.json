@@ -1,0 +1,2 @@
+mergeDates = '[ {"date": "2013-08-05", "release": "23"}, {"date": "2013-09-16", "release": "24"}, {"date": "2013-10-28", "release": "25"}, {"date": "2013-12-09", "release": "26"}, {"date": "2014-01-20", "release": "27"}, {"date": "2014-03-03", "release": "28"} ]'; 
+releaseDates = '[ {"date": "2013-08-06", "release": "23"}, {"date": "2013-09-17", "release": "24"}, {"date": "2013-10-29", "release": "25"}, {"date": "2013-12-10", "release": "26"}, {"date": "2014-01-21", "release": "27"}, {"date": "2014-03-02", "release": "28"} ]';
